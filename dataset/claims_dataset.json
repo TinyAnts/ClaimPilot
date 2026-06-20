@@ -1,0 +1,4736 @@
+[
+ {
+  "external_id": "SYN-0001",
+  "pet": {
+   "species": "dog",
+   "breed": "Labrador",
+   "age_years": 12
+  },
+  "policy_start": "2024-04-05",
+  "claim_date": "2025-11-24",
+  "addons": [],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   },
+   {
+    "desc": "Joint supplement",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 900
+ },
+ {
+  "external_id": "SYN-0002",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 8
+  },
+  "policy_start": "2024-01-25",
+  "claim_date": "2025-12-14",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Urinary tract infection",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 640
+ },
+ {
+  "external_id": "SYN-0003",
+  "pet": {
+   "species": "dog",
+   "breed": "Dachshund",
+   "age_years": 8
+  },
+  "policy_start": "2024-07-03",
+  "claim_date": "2025-11-20",
+  "addons": [],
+  "diagnosis": "Acute gastroenteritis",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 880
+ },
+ {
+  "external_id": "SYN-0004",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 5
+  },
+  "policy_start": "2024-06-06",
+  "claim_date": "2025-04-22",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Pyoderma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   },
+   {
+    "desc": "Nail trim",
+    "amount": 18
+   }
+  ],
+  "invoice_total": 3733
+ },
+ {
+  "external_id": "SYN-0005",
+  "pet": {
+   "species": "dog",
+   "breed": "Dachshund",
+   "age_years": 6
+  },
+  "policy_start": "2024-01-08",
+  "claim_date": "2025-06-13",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Cosmetic dental whitening",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   }
+  ],
+  "invoice_total": 395
+ },
+ {
+  "external_id": "SYN-0006",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 11
+  },
+  "policy_start": "2024-05-05",
+  "claim_date": "2025-09-18",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Acute gastroenteritis",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   },
+   {
+    "desc": "Joint supplement",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 1910
+ },
+ {
+  "external_id": "SYN-0007",
+  "pet": {
+   "species": "dog",
+   "breed": "Dachshund",
+   "age_years": 3
+  },
+  "policy_start": "2024-07-20",
+  "claim_date": "2024-07-27",
+  "addons": [],
+  "diagnosis": "Elective ear cropping",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   }
+  ],
+  "invoice_total": 415
+ },
+ {
+  "external_id": "SYN-0008",
+  "pet": {
+   "species": "dog",
+   "breed": "Dachshund",
+   "age_years": 9
+  },
+  "policy_start": "2024-11-11",
+  "claim_date": "2024-11-18",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Cranial cruciate ligament rupture",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Procedure",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 1425
+ },
+ {
+  "external_id": "SYN-0009",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 10
+  },
+  "policy_start": "2024-06-25",
+  "claim_date": "2024-06-28",
+  "addons": [],
+  "diagnosis": "Fracture (fall)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 770
+ },
+ {
+  "external_id": "SYN-0010",
+  "pet": {
+   "species": "dog",
+   "breed": "Labrador",
+   "age_years": 4
+  },
+  "policy_start": "2024-02-03",
+  "claim_date": "2025-02-25",
+  "addons": [],
+  "diagnosis": "Annual wellness exam",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0011",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 10
+  },
+  "policy_start": "2024-04-18",
+  "claim_date": "2025-12-07",
+  "addons": [],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Procedure",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1420
+ },
+ {
+  "external_id": "SYN-0012",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 10
+  },
+  "policy_start": "2024-10-08",
+  "claim_date": "2024-10-09",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 3520
+ },
+ {
+  "external_id": "SYN-0013",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 8
+  },
+  "policy_start": "2024-04-04",
+  "claim_date": "2024-04-11",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   }
+  ],
+  "invoice_total": 295
+ },
+ {
+  "external_id": "SYN-0014",
+  "pet": {
+   "species": "dog",
+   "breed": "Labrador",
+   "age_years": 7
+  },
+  "policy_start": "2024-02-08",
+  "claim_date": "2025-09-15",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Hip dysplasia",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 960
+ },
+ {
+  "external_id": "SYN-0015",
+  "pet": {
+   "species": "dog",
+   "breed": "Labrador",
+   "age_years": 4
+  },
+  "policy_start": "2024-08-16",
+  "claim_date": "2025-07-02",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1840
+ },
+ {
+  "external_id": "SYN-0016",
+  "pet": {
+   "species": "dog",
+   "breed": "Beagle",
+   "age_years": 5
+  },
+  "policy_start": "2024-01-19",
+  "claim_date": "2025-01-24",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Foreign body ingestion",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   },
+   {
+    "desc": "Therapeutic diet",
+    "amount": 18
+   }
+  ],
+  "invoice_total": 3703
+ },
+ {
+  "external_id": "SYN-0017",
+  "pet": {
+   "species": "dog",
+   "breed": "Dachshund",
+   "age_years": 4
+  },
+  "policy_start": "2024-10-08",
+  "claim_date": "2025-01-20",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Urinary tract infection",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Procedure",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 3690
+ },
+ {
+  "external_id": "SYN-0018",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 11
+  },
+  "policy_start": "2024-08-11",
+  "claim_date": "2025-02-01",
+  "addons": [],
+  "diagnosis": "Luxating patella",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 3450
+ },
+ {
+  "external_id": "SYN-0019",
+  "pet": {
+   "species": "dog",
+   "breed": "Bulldog",
+   "age_years": 5
+  },
+  "policy_start": "2024-09-23",
+  "claim_date": "2025-11-17",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 770
+ },
+ {
+  "external_id": "SYN-0020",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 10
+  },
+  "policy_start": "2024-06-07",
+  "claim_date": "2025-05-17",
+  "addons": [],
+  "diagnosis": "Fracture (fall)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   },
+   {
+    "desc": "Nutritional supplement",
+    "amount": 18
+   }
+  ],
+  "invoice_total": 1758
+ },
+ {
+  "external_id": "SYN-0021",
+  "pet": {
+   "species": "dog",
+   "breed": "Dachshund",
+   "age_years": 8
+  },
+  "policy_start": "2024-07-18",
+  "claim_date": "2024-07-20",
+  "addons": [],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 690
+ },
+ {
+  "external_id": "SYN-0022",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 6
+  },
+  "policy_start": "2024-04-22",
+  "claim_date": "2024-04-28",
+  "addons": [],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Procedure",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1100
+ },
+ {
+  "external_id": "SYN-0023",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 3
+  },
+  "policy_start": "2024-06-26",
+  "claim_date": "2025-11-28",
+  "addons": [],
+  "diagnosis": "Cranial cruciate ligament rupture",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 760
+ },
+ {
+  "external_id": "SYN-0024",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 5
+  },
+  "policy_start": "2024-04-08",
+  "claim_date": "2024-04-12",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Cosmetic dental whitening",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   }
+  ],
+  "invoice_total": 195
+ },
+ {
+  "external_id": "SYN-0025",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 6
+  },
+  "policy_start": "2024-02-09",
+  "claim_date": "2024-02-14",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Core vaccination",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0026",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 10
+  },
+  "policy_start": "2024-01-23",
+  "claim_date": "2025-09-26",
+  "addons": [],
+  "diagnosis": "Fracture (fall)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Procedure",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1130
+ },
+ {
+  "external_id": "SYN-0027",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 12
+  },
+  "policy_start": "2024-09-10",
+  "claim_date": "2025-06-13",
+  "addons": [],
+  "diagnosis": "Annual wellness exam",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0028",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 9
+  },
+  "policy_start": "2024-05-10",
+  "claim_date": "2025-10-20",
+  "addons": [],
+  "diagnosis": "Declaw (elective)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   }
+  ],
+  "invoice_total": 295
+ },
+ {
+  "external_id": "SYN-0029",
+  "pet": {
+   "species": "dog",
+   "breed": "Dachshund",
+   "age_years": 2
+  },
+  "policy_start": "2024-11-21",
+  "claim_date": "2025-02-27",
+  "addons": [],
+  "diagnosis": "Foreign body ingestion",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   },
+   {
+    "desc": "Boarding",
+    "amount": 18
+   }
+  ],
+  "invoice_total": 1098
+ },
+ {
+  "external_id": "SYN-0030",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 11
+  },
+  "policy_start": "2024-12-23",
+  "claim_date": "2025-07-08",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   },
+   {
+    "desc": "Nail trim",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 1790
+ },
+ {
+  "external_id": "SYN-0031",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 3
+  },
+  "policy_start": "2024-11-17",
+  "claim_date": "2025-10-11",
+  "addons": [],
+  "diagnosis": "Declaw (elective)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   }
+  ],
+  "invoice_total": 415
+ },
+ {
+  "external_id": "SYN-0032",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 12
+  },
+  "policy_start": "2024-08-09",
+  "claim_date": "2025-11-09",
+  "addons": [],
+  "diagnosis": "Annual wellness exam",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0033",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 5
+  },
+  "policy_start": "2024-09-03",
+  "claim_date": "2024-09-07",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 880
+ },
+ {
+  "external_id": "SYN-0034",
+  "pet": {
+   "species": "dog",
+   "breed": "Beagle",
+   "age_years": 7
+  },
+  "policy_start": "2024-10-23",
+  "claim_date": "2024-10-28",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1840
+ },
+ {
+  "external_id": "SYN-0035",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 8
+  },
+  "policy_start": "2024-06-22",
+  "claim_date": "2025-07-24",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Foreign body ingestion",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 3440
+ },
+ {
+  "external_id": "SYN-0036",
+  "pet": {
+   "species": "dog",
+   "breed": "Dachshund",
+   "age_years": 7
+  },
+  "policy_start": "2024-08-06",
+  "claim_date": "2024-08-13",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Fracture (fall)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1860
+ },
+ {
+  "external_id": "SYN-0037",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 1
+  },
+  "policy_start": "2024-01-12",
+  "claim_date": "2025-02-25",
+  "addons": [],
+  "diagnosis": "Luxating patella",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 860
+ },
+ {
+  "external_id": "SYN-0038",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 12
+  },
+  "policy_start": "2024-06-06",
+  "claim_date": "2025-12-23",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 3520
+ },
+ {
+  "external_id": "SYN-0039",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 2
+  },
+  "policy_start": "2024-11-08",
+  "claim_date": "2024-11-13",
+  "addons": [],
+  "diagnosis": "Acute gastroenteritis",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 690
+ },
+ {
+  "external_id": "SYN-0040",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 7
+  },
+  "policy_start": "2024-02-14",
+  "claim_date": "2025-11-27",
+  "addons": [],
+  "diagnosis": "Cosmetic dental whitening",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Therapeutic diet",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 315
+ },
+ {
+  "external_id": "SYN-0041",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 7
+  },
+  "policy_start": "2024-10-09",
+  "claim_date": "2025-04-27",
+  "addons": [],
+  "diagnosis": "Declaw (elective)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Prescription i/d food",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 335
+ },
+ {
+  "external_id": "SYN-0042",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 8
+  },
+  "policy_start": "2024-03-16",
+  "claim_date": "2025-05-11",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Cosmetic dental whitening",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   }
+  ],
+  "invoice_total": 425
+ },
+ {
+  "external_id": "SYN-0043",
+  "pet": {
+   "species": "dog",
+   "breed": "Labrador",
+   "age_years": 4
+  },
+  "policy_start": "2024-08-18",
+  "claim_date": "2025-12-16",
+  "addons": [],
+  "diagnosis": "Hip dysplasia",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   },
+   {
+    "desc": "Nail trim",
+    "amount": 18
+   }
+  ],
+  "invoice_total": 798
+ },
+ {
+  "external_id": "SYN-0044",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 12
+  },
+  "policy_start": "2024-06-23",
+  "claim_date": "2025-05-09",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 715
+ },
+ {
+  "external_id": "SYN-0045",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 12
+  },
+  "policy_start": "2024-09-20",
+  "claim_date": "2025-02-27",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Acute gastroenteritis",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1260
+ },
+ {
+  "external_id": "SYN-0046",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 11
+  },
+  "policy_start": "2024-08-04",
+  "claim_date": "2025-10-10",
+  "addons": [],
+  "diagnosis": "Core vaccination",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0047",
+  "pet": {
+   "species": "dog",
+   "breed": "Husky",
+   "age_years": 2
+  },
+  "policy_start": "2024-02-19",
+  "claim_date": "2025-01-05",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 990
+ },
+ {
+  "external_id": "SYN-0048",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 8
+  },
+  "policy_start": "2024-10-14",
+  "claim_date": "2025-10-02",
+  "addons": [],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 910
+ },
+ {
+  "external_id": "SYN-0049",
+  "pet": {
+   "species": "dog",
+   "breed": "Beagle",
+   "age_years": 1
+  },
+  "policy_start": "2024-12-20",
+  "claim_date": "2025-01-08",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   },
+   {
+    "desc": "Nutritional supplement",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 965
+ },
+ {
+  "external_id": "SYN-0050",
+  "pet": {
+   "species": "dog",
+   "breed": "Dachshund",
+   "age_years": 3
+  },
+  "policy_start": "2024-03-03",
+  "claim_date": "2024-03-08",
+  "addons": [],
+  "diagnosis": "Core vaccination",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0051",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 9
+  },
+  "policy_start": "2024-08-03",
+  "claim_date": "2025-07-24",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Acute gastroenteritis",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 925
+ },
+ {
+  "external_id": "SYN-0052",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 1
+  },
+  "policy_start": "2024-03-16",
+  "claim_date": "2025-08-09",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Elective ear cropping",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   }
+  ],
+  "invoice_total": 305
+ },
+ {
+  "external_id": "SYN-0053",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 7
+  },
+  "policy_start": "2024-11-04",
+  "claim_date": "2025-06-14",
+  "addons": [],
+  "diagnosis": "Fracture (fall)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 3660
+ },
+ {
+  "external_id": "SYN-0054",
+  "pet": {
+   "species": "dog",
+   "breed": "Husky",
+   "age_years": 7
+  },
+  "policy_start": "2024-01-22",
+  "claim_date": "2025-08-14",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Core vaccination",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0055",
+  "pet": {
+   "species": "dog",
+   "breed": "Beagle",
+   "age_years": 5
+  },
+  "policy_start": "2024-05-15",
+  "claim_date": "2025-08-04",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Acute gastroenteritis",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1130
+ },
+ {
+  "external_id": "SYN-0056",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 2
+  },
+  "policy_start": "2024-03-16",
+  "claim_date": "2025-05-17",
+  "addons": [],
+  "diagnosis": "Hip dysplasia",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1000
+ },
+ {
+  "external_id": "SYN-0057",
+  "pet": {
+   "species": "dog",
+   "breed": "Husky",
+   "age_years": 2
+  },
+  "policy_start": "2024-07-11",
+  "claim_date": "2025-09-09",
+  "addons": [],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 3705
+ },
+ {
+  "external_id": "SYN-0058",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 8
+  },
+  "policy_start": "2024-09-25",
+  "claim_date": "2025-08-11",
+  "addons": [],
+  "diagnosis": "Urinary tract infection",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1750
+ },
+ {
+  "external_id": "SYN-0059",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 11
+  },
+  "policy_start": "2024-11-05",
+  "claim_date": "2025-01-05",
+  "addons": [],
+  "diagnosis": "Declaw (elective)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   }
+  ],
+  "invoice_total": 305
+ },
+ {
+  "external_id": "SYN-0060",
+  "pet": {
+   "species": "dog",
+   "breed": "Boxer",
+   "age_years": 8
+  },
+  "policy_start": "2024-03-14",
+  "claim_date": "2025-03-03",
+  "addons": [],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   },
+   {
+    "desc": "Nutritional supplement",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 1925
+ },
+ {
+  "external_id": "SYN-0061",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 9
+  },
+  "policy_start": "2024-02-08",
+  "claim_date": "2025-05-08",
+  "addons": [],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   },
+   {
+    "desc": "Nutritional supplement",
+    "amount": 18
+   }
+  ],
+  "invoice_total": 698
+ },
+ {
+  "external_id": "SYN-0062",
+  "pet": {
+   "species": "dog",
+   "breed": "Bulldog",
+   "age_years": 6
+  },
+  "policy_start": "2024-03-08",
+  "claim_date": "2025-10-22",
+  "addons": [],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 3440
+ },
+ {
+  "external_id": "SYN-0063",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 5
+  },
+  "policy_start": "2024-08-10",
+  "claim_date": "2025-03-03",
+  "addons": [],
+  "diagnosis": "Cranial cruciate ligament rupture",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 2005
+ },
+ {
+  "external_id": "SYN-0064",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 4
+  },
+  "policy_start": "2024-06-19",
+  "claim_date": "2025-12-10",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Acute gastroenteritis",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 815
+ },
+ {
+  "external_id": "SYN-0065",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 4
+  },
+  "policy_start": "2024-06-08",
+  "claim_date": "2025-10-09",
+  "addons": [],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Procedure",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   },
+   {
+    "desc": "Nail trim",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 1195
+ },
+ {
+  "external_id": "SYN-0066",
+  "pet": {
+   "species": "dog",
+   "breed": "Boxer",
+   "age_years": 6
+  },
+  "policy_start": "2024-02-10",
+  "claim_date": "2025-07-06",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Luxating patella",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 3570
+ },
+ {
+  "external_id": "SYN-0067",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 2
+  },
+  "policy_start": "2024-02-05",
+  "claim_date": "2025-04-28",
+  "addons": [],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1290
+ },
+ {
+  "external_id": "SYN-0068",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 11
+  },
+  "policy_start": "2024-05-19",
+  "claim_date": "2025-11-12",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Hip dysplasia",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 3565
+ },
+ {
+  "external_id": "SYN-0069",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 11
+  },
+  "policy_start": "2024-03-02",
+  "claim_date": "2025-05-16",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Pyoderma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1960
+ },
+ {
+  "external_id": "SYN-0070",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 11
+  },
+  "policy_start": "2024-08-20",
+  "claim_date": "2025-05-02",
+  "addons": [],
+  "diagnosis": "Fracture (fall)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   },
+   {
+    "desc": "Nail trim",
+    "amount": 28
+   }
+  ],
+  "invoice_total": 1008
+ },
+ {
+  "external_id": "SYN-0071",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 5
+  },
+  "policy_start": "2024-02-28",
+  "claim_date": "2025-02-22",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   },
+   {
+    "desc": "Joint supplement",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 950
+ },
+ {
+  "external_id": "SYN-0072",
+  "pet": {
+   "species": "dog",
+   "breed": "Husky",
+   "age_years": 4
+  },
+  "policy_start": "2024-03-26",
+  "claim_date": "2025-01-09",
+  "addons": [],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   },
+   {
+    "desc": "Boarding",
+    "amount": 18
+   }
+  ],
+  "invoice_total": 1178
+ },
+ {
+  "external_id": "SYN-0073",
+  "pet": {
+   "species": "dog",
+   "breed": "Boxer",
+   "age_years": 6
+  },
+  "policy_start": "2024-05-02",
+  "claim_date": "2024-05-09",
+  "addons": [],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1770
+ },
+ {
+  "external_id": "SYN-0074",
+  "pet": {
+   "species": "dog",
+   "breed": "Dachshund",
+   "age_years": 11
+  },
+  "policy_start": "2024-08-21",
+  "claim_date": "2025-01-16",
+  "addons": [],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 2005
+ },
+ {
+  "external_id": "SYN-0075",
+  "pet": {
+   "species": "dog",
+   "breed": "Labrador",
+   "age_years": 3
+  },
+  "policy_start": "2024-11-19",
+  "claim_date": "2025-06-13",
+  "addons": [],
+  "diagnosis": "Foreign body ingestion",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 3595
+ },
+ {
+  "external_id": "SYN-0076",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 8
+  },
+  "policy_start": "2024-07-11",
+  "claim_date": "2025-07-14",
+  "addons": [],
+  "diagnosis": "Annual wellness exam",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0077",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 2
+  },
+  "policy_start": "2024-02-14",
+  "claim_date": "2024-02-20",
+  "addons": [],
+  "diagnosis": "Declaw (elective)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   }
+  ],
+  "invoice_total": 205
+ },
+ {
+  "external_id": "SYN-0078",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 6
+  },
+  "policy_start": "2024-07-28",
+  "claim_date": "2025-01-10",
+  "addons": [],
+  "diagnosis": "Heartworm prevention",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0079",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 2
+  },
+  "policy_start": "2024-09-12",
+  "claim_date": "2024-09-17",
+  "addons": [],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Procedure",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 3705
+ },
+ {
+  "external_id": "SYN-0080",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 3
+  },
+  "policy_start": "2024-05-11",
+  "claim_date": "2025-03-28",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 1035
+ },
+ {
+  "external_id": "SYN-0081",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 7
+  },
+  "policy_start": "2024-03-12",
+  "claim_date": "2025-06-25",
+  "addons": [],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 890
+ },
+ {
+  "external_id": "SYN-0082",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 8
+  },
+  "policy_start": "2024-07-09",
+  "claim_date": "2025-09-04",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 3540
+ },
+ {
+  "external_id": "SYN-0083",
+  "pet": {
+   "species": "dog",
+   "breed": "Labrador",
+   "age_years": 4
+  },
+  "policy_start": "2024-04-25",
+  "claim_date": "2024-04-28",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Fracture (fall)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   },
+   {
+    "desc": "Therapeutic diet",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 1760
+ },
+ {
+  "external_id": "SYN-0084",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 12
+  },
+  "policy_start": "2024-01-15",
+  "claim_date": "2025-06-19",
+  "addons": [],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Procedure",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   },
+   {
+    "desc": "Boarding",
+    "amount": 28
+   }
+  ],
+  "invoice_total": 2008
+ },
+ {
+  "external_id": "SYN-0085",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 7
+  },
+  "policy_start": "2024-04-14",
+  "claim_date": "2025-09-03",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Elective ear cropping",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   }
+  ],
+  "invoice_total": 415
+ },
+ {
+  "external_id": "SYN-0086",
+  "pet": {
+   "species": "dog",
+   "breed": "Boxer",
+   "age_years": 11
+  },
+  "policy_start": "2024-09-07",
+  "claim_date": "2025-06-12",
+  "addons": [],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 670
+ },
+ {
+  "external_id": "SYN-0087",
+  "pet": {
+   "species": "dog",
+   "breed": "Beagle",
+   "age_years": 11
+  },
+  "policy_start": "2024-10-25",
+  "claim_date": "2025-11-19",
+  "addons": [],
+  "diagnosis": "Urinary tract infection",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1290
+ },
+ {
+  "external_id": "SYN-0088",
+  "pet": {
+   "species": "dog",
+   "breed": "Bulldog",
+   "age_years": 9
+  },
+  "policy_start": "2024-08-15",
+  "claim_date": "2024-08-21",
+  "addons": [],
+  "diagnosis": "Foreign body ingestion",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 3685
+ },
+ {
+  "external_id": "SYN-0089",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 11
+  },
+  "policy_start": "2024-10-16",
+  "claim_date": "2025-01-15",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   },
+   {
+    "desc": "Joint supplement",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 3745
+ },
+ {
+  "external_id": "SYN-0090",
+  "pet": {
+   "species": "dog",
+   "breed": "Bulldog",
+   "age_years": 6
+  },
+  "policy_start": "2024-07-14",
+  "claim_date": "2025-11-20",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Heartworm prevention",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0091",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 5
+  },
+  "policy_start": "2024-11-20",
+  "claim_date": "2025-06-03",
+  "addons": [],
+  "diagnosis": "Luxating patella",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1820
+ },
+ {
+  "external_id": "SYN-0092",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 11
+  },
+  "policy_start": "2024-12-22",
+  "claim_date": "2025-02-21",
+  "addons": [],
+  "diagnosis": "Luxating patella",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   },
+   {
+    "desc": "Joint supplement",
+    "amount": 28
+   }
+  ],
+  "invoice_total": 1338
+ },
+ {
+  "external_id": "SYN-0093",
+  "pet": {
+   "species": "dog",
+   "breed": "Beagle",
+   "age_years": 2
+  },
+  "policy_start": "2024-02-17",
+  "claim_date": "2025-12-17",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   },
+   {
+    "desc": "Joint supplement",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 3720
+ },
+ {
+  "external_id": "SYN-0094",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 7
+  },
+  "policy_start": "2024-12-08",
+  "claim_date": "2025-10-10",
+  "addons": [],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 900
+ },
+ {
+  "external_id": "SYN-0095",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 5
+  },
+  "policy_start": "2024-09-17",
+  "claim_date": "2025-03-27",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   }
+  ],
+  "invoice_total": 205
+ },
+ {
+  "external_id": "SYN-0096",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 9
+  },
+  "policy_start": "2024-12-28",
+  "claim_date": "2025-02-10",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Core vaccination",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0097",
+  "pet": {
+   "species": "dog",
+   "breed": "Beagle",
+   "age_years": 8
+  },
+  "policy_start": "2024-01-14",
+  "claim_date": "2024-01-23",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0098",
+  "pet": {
+   "species": "dog",
+   "breed": "Husky",
+   "age_years": 12
+  },
+  "policy_start": "2024-03-05",
+  "claim_date": "2024-03-13",
+  "addons": [],
+  "diagnosis": "Cranial cruciate ligament rupture",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   },
+   {
+    "desc": "Boarding",
+    "amount": 18
+   }
+  ],
+  "invoice_total": 2003
+ },
+ {
+  "external_id": "SYN-0099",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 5
+  },
+  "policy_start": "2024-02-02",
+  "claim_date": "2025-11-26",
+  "addons": [],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   },
+   {
+    "desc": "Therapeutic diet",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 3505
+ },
+ {
+  "external_id": "SYN-0100",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 1
+  },
+  "policy_start": "2024-04-19",
+  "claim_date": "2025-11-22",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Acute gastroenteritis",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 3485
+ },
+ {
+  "external_id": "SYN-0101",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 11
+  },
+  "policy_start": "2024-06-09",
+  "claim_date": "2025-06-26",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Acute gastroenteritis",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Procedure",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 905
+ },
+ {
+  "external_id": "SYN-0102",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 11
+  },
+  "policy_start": "2024-12-16",
+  "claim_date": "2025-03-03",
+  "addons": [],
+  "diagnosis": "Urinary tract infection",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 880
+ },
+ {
+  "external_id": "SYN-0103",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 8
+  },
+  "policy_start": "2024-11-07",
+  "claim_date": "2025-01-28",
+  "addons": [],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1760
+ },
+ {
+  "external_id": "SYN-0104",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 8
+  },
+  "policy_start": "2024-06-26",
+  "claim_date": "2025-02-24",
+  "addons": [],
+  "diagnosis": "Hip dysplasia",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 3680
+ },
+ {
+  "external_id": "SYN-0105",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 12
+  },
+  "policy_start": "2024-12-15",
+  "claim_date": "2025-01-24",
+  "addons": [],
+  "diagnosis": "Acute gastroenteritis",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 1445
+ },
+ {
+  "external_id": "SYN-0106",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 9
+  },
+  "policy_start": "2024-11-06",
+  "claim_date": "2025-03-28",
+  "addons": [],
+  "diagnosis": "Declaw (elective)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Joint supplement",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 235
+ },
+ {
+  "external_id": "SYN-0107",
+  "pet": {
+   "species": "dog",
+   "breed": "Boxer",
+   "age_years": 3
+  },
+  "policy_start": "2024-06-12",
+  "claim_date": "2025-02-19",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1280
+ },
+ {
+  "external_id": "SYN-0108",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 2
+  },
+  "policy_start": "2024-05-23",
+  "claim_date": "2025-10-10",
+  "addons": [],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 880
+ },
+ {
+  "external_id": "SYN-0109",
+  "pet": {
+   "species": "dog",
+   "breed": "Husky",
+   "age_years": 11
+  },
+  "policy_start": "2024-06-22",
+  "claim_date": "2025-02-18",
+  "addons": [],
+  "diagnosis": "Heartworm prevention",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0110",
+  "pet": {
+   "species": "dog",
+   "breed": "Husky",
+   "age_years": 6
+  },
+  "policy_start": "2024-02-07",
+  "claim_date": "2025-04-26",
+  "addons": [],
+  "diagnosis": "Acute gastroenteritis",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Procedure",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1420
+ },
+ {
+  "external_id": "SYN-0111",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 9
+  },
+  "policy_start": "2024-07-27",
+  "claim_date": "2025-03-11",
+  "addons": [],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   },
+   {
+    "desc": "Therapeutic diet",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 3600
+ },
+ {
+  "external_id": "SYN-0112",
+  "pet": {
+   "species": "dog",
+   "breed": "Husky",
+   "age_years": 2
+  },
+  "policy_start": "2024-05-06",
+  "claim_date": "2024-05-10",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1290
+ },
+ {
+  "external_id": "SYN-0113",
+  "pet": {
+   "species": "dog",
+   "breed": "Boxer",
+   "age_years": 11
+  },
+  "policy_start": "2024-10-05",
+  "claim_date": "2024-10-15",
+  "addons": [],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   },
+   {
+    "desc": "Nail trim",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 810
+ },
+ {
+  "external_id": "SYN-0114",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 11
+  },
+  "policy_start": "2024-11-18",
+  "claim_date": "2025-05-16",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1850
+ },
+ {
+  "external_id": "SYN-0115",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 4
+  },
+  "policy_start": "2024-03-11",
+  "claim_date": "2025-06-24",
+  "addons": [],
+  "diagnosis": "Pyoderma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 1325
+ },
+ {
+  "external_id": "SYN-0116",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 3
+  },
+  "policy_start": "2024-05-13",
+  "claim_date": "2025-07-08",
+  "addons": [],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1260
+ },
+ {
+  "external_id": "SYN-0117",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 8
+  },
+  "policy_start": "2024-07-17",
+  "claim_date": "2025-04-07",
+  "addons": [],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 1765
+ },
+ {
+  "external_id": "SYN-0118",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 1
+  },
+  "policy_start": "2024-07-05",
+  "claim_date": "2025-12-12",
+  "addons": [],
+  "diagnosis": "Elective ear cropping",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   }
+  ],
+  "invoice_total": 195
+ },
+ {
+  "external_id": "SYN-0119",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 5
+  },
+  "policy_start": "2024-09-15",
+  "claim_date": "2025-05-27",
+  "addons": [],
+  "diagnosis": "Fracture (fall)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1110
+ },
+ {
+  "external_id": "SYN-0120",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 4
+  },
+  "policy_start": "2024-07-17",
+  "claim_date": "2024-07-18",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Urinary tract infection",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1840
+ },
+ {
+  "external_id": "SYN-0121",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 7
+  },
+  "policy_start": "2024-12-27",
+  "claim_date": "2025-06-17",
+  "addons": [],
+  "diagnosis": "Annual wellness exam",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0122",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 11
+  },
+  "policy_start": "2024-07-19",
+  "claim_date": "2025-12-28",
+  "addons": [],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 1425
+ },
+ {
+  "external_id": "SYN-0123",
+  "pet": {
+   "species": "dog",
+   "breed": "Boxer",
+   "age_years": 8
+  },
+  "policy_start": "2024-11-24",
+  "claim_date": "2025-07-05",
+  "addons": [],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   },
+   {
+    "desc": "Nutritional supplement",
+    "amount": 28
+   }
+  ],
+  "invoice_total": 668
+ },
+ {
+  "external_id": "SYN-0124",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 10
+  },
+  "policy_start": "2024-12-24",
+  "claim_date": "2024-12-27",
+  "addons": [],
+  "diagnosis": "Core vaccination",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0125",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 8
+  },
+  "policy_start": "2024-06-18",
+  "claim_date": "2025-12-22",
+  "addons": [],
+  "diagnosis": "Annual wellness exam",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0126",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 5
+  },
+  "policy_start": "2024-05-25",
+  "claim_date": "2025-04-23",
+  "addons": [],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 3585
+ },
+ {
+  "external_id": "SYN-0127",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 3
+  },
+  "policy_start": "2024-05-23",
+  "claim_date": "2024-05-28",
+  "addons": [],
+  "diagnosis": "Fracture (fall)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 1035
+ },
+ {
+  "external_id": "SYN-0128",
+  "pet": {
+   "species": "dog",
+   "breed": "Labrador",
+   "age_years": 10
+  },
+  "policy_start": "2024-04-08",
+  "claim_date": "2024-04-17",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Cranial cruciate ligament rupture",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1740
+ },
+ {
+  "external_id": "SYN-0129",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 11
+  },
+  "policy_start": "2024-08-16",
+  "claim_date": "2025-05-11",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Heartworm prevention",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0130",
+  "pet": {
+   "species": "dog",
+   "breed": "Beagle",
+   "age_years": 7
+  },
+  "policy_start": "2024-03-02",
+  "claim_date": "2025-07-26",
+  "addons": [],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0131",
+  "pet": {
+   "species": "dog",
+   "breed": "Bulldog",
+   "age_years": 5
+  },
+  "policy_start": "2024-11-18",
+  "claim_date": "2025-03-28",
+  "addons": [],
+  "diagnosis": "Otitis externa",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 940
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1180
+ },
+ {
+  "external_id": "SYN-0132",
+  "pet": {
+   "species": "cat",
+   "breed": "Siamese",
+   "age_years": 10
+  },
+  "policy_start": "2024-04-06",
+  "claim_date": "2025-11-13",
+  "addons": [],
+  "diagnosis": "Cranial cruciate ligament rupture",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   },
+   {
+    "desc": "Joint supplement",
+    "amount": 28
+   }
+  ],
+  "invoice_total": 1923
+ },
+ {
+  "external_id": "SYN-0133",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 8
+  },
+  "policy_start": "2024-06-10",
+  "claim_date": "2025-10-01",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Hip dysplasia",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   },
+   {
+    "desc": "Nutritional supplement",
+    "amount": 18
+   }
+  ],
+  "invoice_total": 943
+ },
+ {
+  "external_id": "SYN-0134",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 11
+  },
+  "policy_start": "2024-05-12",
+  "claim_date": "2025-04-05",
+  "addons": [],
+  "diagnosis": "Heartworm prevention",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0135",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 11
+  },
+  "policy_start": "2024-04-22",
+  "claim_date": "2025-02-17",
+  "addons": [],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Therapeutic diet",
+    "amount": 18
+   }
+  ],
+  "invoice_total": 323
+ },
+ {
+  "external_id": "SYN-0136",
+  "pet": {
+   "species": "dog",
+   "breed": "Boxer",
+   "age_years": 9
+  },
+  "policy_start": "2024-06-28",
+  "claim_date": "2025-02-22",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 3570
+ },
+ {
+  "external_id": "SYN-0137",
+  "pet": {
+   "species": "cat",
+   "breed": "Ragdoll",
+   "age_years": 1
+  },
+  "policy_start": "2024-11-26",
+  "claim_date": "2025-01-13",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   },
+   {
+    "desc": "Nutritional supplement",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 3680
+ },
+ {
+  "external_id": "SYN-0138",
+  "pet": {
+   "species": "dog",
+   "breed": "Poodle",
+   "age_years": 1
+  },
+  "policy_start": "2024-03-25",
+  "claim_date": "2024-03-28",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Laceration repair",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 1500
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 1840
+ },
+ {
+  "external_id": "SYN-0139",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 3
+  },
+  "policy_start": "2024-07-17",
+  "claim_date": "2024-07-21",
+  "addons": [],
+  "diagnosis": "Core vaccination",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0140",
+  "pet": {
+   "species": "cat",
+   "breed": "Maine Coon",
+   "age_years": 4
+  },
+  "policy_start": "2024-03-09",
+  "claim_date": "2025-12-25",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   },
+   {
+    "desc": "Boarding",
+    "amount": 40
+   }
+  ],
+  "invoice_total": 810
+ },
+ {
+  "external_id": "SYN-0141",
+  "pet": {
+   "species": "dog",
+   "breed": "Beagle",
+   "age_years": 12
+  },
+  "policy_start": "2024-08-08",
+  "claim_date": "2025-01-05",
+  "addons": [],
+  "diagnosis": "Fracture (fall)",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 3460
+ },
+ {
+  "external_id": "SYN-0142",
+  "pet": {
+   "species": "dog",
+   "breed": "Bulldog",
+   "age_years": 3
+  },
+  "policy_start": "2024-09-08",
+  "claim_date": "2025-05-02",
+  "addons": [],
+  "diagnosis": "Core vaccination",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0143",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 6
+  },
+  "policy_start": "2024-11-13",
+  "claim_date": "2025-06-23",
+  "addons": [],
+  "diagnosis": "Core vaccination",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0144",
+  "pet": {
+   "species": "dog",
+   "breed": "Husky",
+   "age_years": 4
+  },
+  "policy_start": "2024-12-05",
+  "claim_date": "2025-01-18",
+  "addons": [],
+  "diagnosis": "Hit-by-car trauma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 75
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Procedure",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   },
+   {
+    "desc": "Joint supplement",
+    "amount": 28
+   }
+  ],
+  "invoice_total": 1148
+ },
+ {
+  "external_id": "SYN-0145",
+  "pet": {
+   "species": "cat",
+   "breed": "Domestic Shorthair",
+   "age_years": 9
+  },
+  "policy_start": "2024-04-02",
+  "claim_date": "2025-11-20",
+  "addons": [],
+  "diagnosis": "Luxating patella",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 120
+   },
+   {
+    "desc": "Procedure",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 3420
+ },
+ {
+  "external_id": "SYN-0146",
+  "pet": {
+   "species": "dog",
+   "breed": "Beagle",
+   "age_years": 4
+  },
+  "policy_start": "2024-02-24",
+  "claim_date": "2025-08-08",
+  "addons": [],
+  "diagnosis": "Core vaccination",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Wellness exam",
+    "amount": 60
+   },
+   {
+    "desc": "Vaccination",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 105
+ },
+ {
+  "external_id": "SYN-0147",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 8
+  },
+  "policy_start": "2024-06-10",
+  "claim_date": "2025-09-16",
+  "addons": [],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 1010
+ },
+ {
+  "external_id": "SYN-0148",
+  "pet": {
+   "species": "dog",
+   "breed": "Labrador",
+   "age_years": 5
+  },
+  "policy_start": "2024-10-19",
+  "claim_date": "2025-05-05",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Urinary tract infection",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 55
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Procedure",
+    "amount": 640
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 65
+   }
+  ],
+  "invoice_total": 980
+ },
+ {
+  "external_id": "SYN-0149",
+  "pet": {
+   "species": "cat",
+   "breed": "Persian",
+   "age_years": 8
+  },
+  "policy_start": "2024-06-06",
+  "claim_date": "2024-06-15",
+  "addons": [],
+  "diagnosis": "",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 340
+   },
+   {
+    "desc": "Surgery + anesthesia",
+    "amount": 3200
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 45
+   }
+  ],
+  "invoice_total": 3670
+ },
+ {
+  "external_id": "SYN-0150",
+  "pet": {
+   "species": "dog",
+   "breed": "Husky",
+   "age_years": 1
+  },
+  "policy_start": "2024-11-08",
+  "claim_date": "2024-11-11",
+  "addons": [
+   "wellness"
+  ],
+  "diagnosis": "Pyoderma",
+  "treatment": "Exam, diagnostics, treatment as indicated",
+  "line_items": [
+   {
+    "desc": "Exam",
+    "amount": 85
+   },
+   {
+    "desc": "Diagnostics",
+    "amount": 220
+   },
+   {
+    "desc": "Hospitalization",
+    "amount": 420
+   },
+   {
+    "desc": "Prescription meds",
+    "amount": 90
+   }
+  ],
+  "invoice_total": 815
+ }
+]

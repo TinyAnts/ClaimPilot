@@ -1,0 +1,82 @@
+{
+  "N": 40,
+  "completion": 100.0,
+  "disp_acc": 50.0,
+  "payout_mae": 183.88,
+  "cm": {
+    "APPROVE": [
+      10,
+      0,
+      0,
+      0
+    ],
+    "PARTIAL": [
+      4,
+      6,
+      0,
+      0
+    ],
+    "DENY": [
+      5,
+      1,
+      4,
+      0
+    ],
+    "RETURNED": [
+      7,
+      1,
+      2,
+      0
+    ]
+  },
+  "labels": [
+    "APPROVE",
+    "PARTIAL",
+    "DENY",
+    "RETURNED"
+  ],
+  "per_class": {
+    "APPROVE": 100.0,
+    "PARTIAL": 60.0,
+    "DENY": 40.0,
+    "RETURNED": 0.0
+  },
+  "metrics": {
+    "APPROVE": {
+      "precision": 38.5,
+      "recall": 100.0,
+      "f1": 55.6,
+      "pred": 26,
+      "true": 10
+    },
+    "PARTIAL": {
+      "precision": 75.0,
+      "recall": 60.0,
+      "f1": 66.7,
+      "pred": 8,
+      "true": 10
+    },
+    "DENY": {
+      "precision": 66.7,
+      "recall": 40.0,
+      "f1": 50.0,
+      "pred": 6,
+      "true": 10
+    },
+    "RETURNED": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "pred": 0,
+      "true": 10
+    }
+  },
+  "macro": {
+    "precision": 45.0,
+    "recall": 50.0,
+    "f1": 43.1
+  },
+  "cohen_kappa": 0.333,
+  "accuracy": 50.0,
+  "over_approvals": 16
+}

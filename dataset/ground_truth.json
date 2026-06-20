@@ -1,0 +1,2146 @@
+[
+ {
+  "external_id": "SYN-0001",
+  "disposition": "PARTIAL",
+  "payout": 488.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Joint supplement"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0002",
+  "disposition": "APPROVE",
+  "payout": 312.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0003",
+  "disposition": "APPROVE",
+  "payout": 504.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0004",
+  "disposition": "PARTIAL",
+  "payout": 2772.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Nail trim"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0005",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0006",
+  "disposition": "PARTIAL",
+  "payout": 1296.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Joint supplement"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0007",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0008",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0009",
+  "disposition": "APPROVE",
+  "payout": 416.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0010",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0011",
+  "disposition": "APPROVE",
+  "payout": 936.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0012",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0013",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0014",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0015",
+  "disposition": "APPROVE",
+  "payout": 1272.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0016",
+  "disposition": "PARTIAL",
+  "payout": 2748.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Therapeutic diet"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0017",
+  "disposition": "APPROVE",
+  "payout": 2752.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0018",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0019",
+  "disposition": "APPROVE",
+  "payout": 416.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0020",
+  "disposition": "PARTIAL",
+  "payout": 1192.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Nutritional supplement"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0021",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0022",
+  "disposition": "APPROVE",
+  "payout": 680.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0023",
+  "disposition": "APPROVE",
+  "payout": 408.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0024",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0025",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0026",
+  "disposition": "APPROVE",
+  "payout": 704.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0027",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0028",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0029",
+  "disposition": "PARTIAL",
+  "payout": 664.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Boarding"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0030",
+  "disposition": "PARTIAL",
+  "payout": 1200.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Nail trim"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0031",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0032",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0033",
+  "disposition": "APPROVE",
+  "payout": 504.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0034",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0035",
+  "disposition": "APPROVE",
+  "payout": 2552.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0036",
+  "disposition": "APPROVE",
+  "payout": 1288.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0037",
+  "disposition": "APPROVE",
+  "payout": 488.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0038",
+  "disposition": "APPROVE",
+  "payout": 2616.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0039",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0040",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0041",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0042",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0043",
+  "disposition": "PARTIAL",
+  "payout": 424.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Nail trim"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0044",
+  "disposition": "APPROVE",
+  "payout": 372.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0045",
+  "disposition": "APPROVE",
+  "payout": 808.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0046",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0047",
+  "disposition": "APPROVE",
+  "payout": 592.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0048",
+  "disposition": "APPROVE",
+  "payout": 528.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0049",
+  "disposition": "PARTIAL",
+  "payout": 540.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Nutritional supplement"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0050",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0051",
+  "disposition": "APPROVE",
+  "payout": 540.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0052",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0053",
+  "disposition": "APPROVE",
+  "payout": 2728.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0054",
+  "disposition": "APPROVE",
+  "payout": 0.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0055",
+  "disposition": "APPROVE",
+  "payout": 704.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0056",
+  "disposition": "APPROVE",
+  "payout": 600.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0057",
+  "disposition": "APPROVE",
+  "payout": 2764.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0058",
+  "disposition": "APPROVE",
+  "payout": 1200.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0059",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0060",
+  "disposition": "PARTIAL",
+  "payout": 1308.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Nutritional supplement"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0061",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0062",
+  "disposition": "APPROVE",
+  "payout": 2552.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0063",
+  "disposition": "APPROVE",
+  "payout": 1404.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0064",
+  "disposition": "APPROVE",
+  "payout": 452.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0065",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0066",
+  "disposition": "APPROVE",
+  "payout": 2656.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0067",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0068",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0069",
+  "disposition": "APPROVE",
+  "payout": 1368.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0070",
+  "disposition": "PARTIAL",
+  "payout": 584.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Nail trim"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0071",
+  "disposition": "PARTIAL",
+  "payout": 528.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Joint supplement"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0072",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0073",
+  "disposition": "APPROVE",
+  "payout": 1216.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0074",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0075",
+  "disposition": "APPROVE",
+  "payout": 2676.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0076",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0077",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0078",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0079",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0080",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0081",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0082",
+  "disposition": "APPROVE",
+  "payout": 2632.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0083",
+  "disposition": "PARTIAL",
+  "payout": 1176.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Therapeutic diet"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0084",
+  "disposition": "PARTIAL",
+  "payout": 1384.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Boarding"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0085",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0086",
+  "disposition": "APPROVE",
+  "payout": 336.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0087",
+  "disposition": "APPROVE",
+  "payout": 832.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0088",
+  "disposition": "APPROVE",
+  "payout": 2748.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0089",
+  "disposition": "PARTIAL",
+  "payout": 2764.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Joint supplement"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0090",
+  "disposition": "APPROVE",
+  "payout": 0.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0091",
+  "disposition": "APPROVE",
+  "payout": 1256.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0092",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0093",
+  "disposition": "PARTIAL",
+  "payout": 2744.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Joint supplement"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0094",
+  "disposition": "APPROVE",
+  "payout": 520.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0095",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0096",
+  "disposition": "APPROVE",
+  "payout": 0.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0097",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0098",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0099",
+  "disposition": "PARTIAL",
+  "payout": 2572.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Therapeutic diet"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0100",
+  "disposition": "APPROVE",
+  "payout": 2588.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0101",
+  "disposition": "APPROVE",
+  "payout": 524.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0102",
+  "disposition": "APPROVE",
+  "payout": 504.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0103",
+  "disposition": "APPROVE",
+  "payout": 1208.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0104",
+  "disposition": "APPROVE",
+  "payout": 2744.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0105",
+  "disposition": "APPROVE",
+  "payout": 956.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0106",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0107",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0108",
+  "disposition": "APPROVE",
+  "payout": 504.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0109",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0110",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0111",
+  "disposition": "PARTIAL",
+  "payout": 2648.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Therapeutic diet"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0112",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0113",
+  "disposition": "PARTIAL",
+  "payout": 416.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Nail trim"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0114",
+  "disposition": "APPROVE",
+  "payout": 1280.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0115",
+  "disposition": "APPROVE",
+  "payout": 860.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0116",
+  "disposition": "APPROVE",
+  "payout": 808.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0117",
+  "disposition": "APPROVE",
+  "payout": 1212.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0118",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "cosmetic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0119",
+  "disposition": "APPROVE",
+  "payout": 688.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0120",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0121",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0122",
+  "disposition": "APPROVE",
+  "payout": 940.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0123",
+  "disposition": "PARTIAL",
+  "payout": 312.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Nutritional supplement"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0124",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0125",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0126",
+  "disposition": "APPROVE",
+  "payout": 2668.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0127",
+  "disposition": "APPROVE",
+  "payout": 628.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0128",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0129",
+  "disposition": "APPROVE",
+  "payout": 0.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0130",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0131",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0132",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "excluded peril / pre-existing",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0133",
+  "disposition": "PARTIAL",
+  "payout": 540.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Nutritional supplement"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0134",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0135",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0136",
+  "disposition": "APPROVE",
+  "payout": 2656.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0137",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0138",
+  "disposition": "APPROVE",
+  "payout": 1272.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0139",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0140",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0141",
+  "disposition": "APPROVE",
+  "payout": 2568.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0142",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0143",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0144",
+  "disposition": "PARTIAL",
+  "payout": 696.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "accident",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [
+    "Joint supplement"
+   ],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0145",
+  "disposition": "APPROVE",
+  "payout": 2536.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "orthopedic",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0146",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "routine excluded without wellness add-on",
+  "policy_eval": {
+   "peril": "wellness",
+   "covered": false,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0147",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0148",
+  "disposition": "APPROVE",
+  "payout": 584.0,
+  "reason": "adjudicated",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": true,
+   "waiting_ok": true,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0149",
+  "disposition": "RETURNED",
+  "payout": 0.0,
+  "reason": "missing/illegible",
+  "policy_eval": {
+   "peril": "unknown",
+   "covered": null,
+   "waiting_ok": null,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ },
+ {
+  "external_id": "SYN-0150",
+  "disposition": "DENY",
+  "payout": 0.0,
+  "reason": "within waiting period",
+  "policy_eval": {
+   "peril": "illness",
+   "covered": false,
+   "waiting_ok": false,
+   "excluded_items": [],
+   "deductible": 250,
+   "reimburse_pct": 80
+  }
+ }
+]

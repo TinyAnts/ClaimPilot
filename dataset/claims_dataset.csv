@@ -1,0 +1,151 @@
+external_id,species,breed,age,peril,invoice_total,gt_disposition,gt_payout
+SYN-0001,dog,Labrador,12,accident,900,PARTIAL,488.0
+SYN-0002,cat,Maine Coon,8,illness,640,APPROVE,312.0
+SYN-0003,dog,Dachshund,8,illness,880,APPROVE,504.0
+SYN-0004,dog,Poodle,5,illness,3733,PARTIAL,2772.0
+SYN-0005,dog,Dachshund,6,cosmetic,395,DENY,0.0
+SYN-0006,cat,Persian,11,illness,1910,PARTIAL,1296.0
+SYN-0007,dog,Dachshund,3,cosmetic,415,DENY,0.0
+SYN-0008,dog,Dachshund,9,orthopedic,1425,DENY,0.0
+SYN-0009,cat,Ragdoll,10,accident,770,APPROVE,416.0
+SYN-0010,dog,Labrador,4,wellness,105,DENY,0.0
+SYN-0011,cat,Ragdoll,10,illness,1420,APPROVE,936.0
+SYN-0012,cat,Domestic Shorthair,10,illness,3520,DENY,0.0
+SYN-0013,cat,Maine Coon,8,unknown,295,RETURNED,0.0
+SYN-0014,dog,Labrador,7,orthopedic,960,DENY,0.0
+SYN-0015,dog,Labrador,4,accident,1840,APPROVE,1272.0
+SYN-0016,dog,Beagle,5,accident,3703,PARTIAL,2748.0
+SYN-0017,dog,Dachshund,4,illness,3690,APPROVE,2752.0
+SYN-0018,cat,Maine Coon,11,orthopedic,3450,DENY,0.0
+SYN-0019,dog,Bulldog,5,accident,770,APPROVE,416.0
+SYN-0020,cat,Siamese,10,accident,1758,PARTIAL,1192.0
+SYN-0021,dog,Dachshund,8,illness,690,DENY,0.0
+SYN-0022,cat,Domestic Shorthair,6,accident,1100,APPROVE,680.0
+SYN-0023,cat,Domestic Shorthair,3,orthopedic,760,APPROVE,408.0
+SYN-0024,cat,Siamese,5,cosmetic,195,DENY,0.0
+SYN-0025,cat,Ragdoll,6,wellness,105,DENY,0.0
+SYN-0026,dog,Poodle,10,accident,1130,APPROVE,704.0
+SYN-0027,cat,Domestic Shorthair,12,wellness,105,DENY,0.0
+SYN-0028,cat,Persian,9,cosmetic,295,DENY,0.0
+SYN-0029,dog,Dachshund,2,accident,1098,PARTIAL,664.0
+SYN-0030,cat,Persian,11,illness,1790,PARTIAL,1200.0
+SYN-0031,dog,Poodle,3,cosmetic,415,DENY,0.0
+SYN-0032,cat,Maine Coon,12,wellness,105,DENY,0.0
+SYN-0033,cat,Maine Coon,5,accident,880,APPROVE,504.0
+SYN-0034,dog,Beagle,7,illness,1840,DENY,0.0
+SYN-0035,cat,Persian,8,accident,3440,APPROVE,2552.0
+SYN-0036,dog,Dachshund,7,accident,1860,APPROVE,1288.0
+SYN-0037,dog,Poodle,1,orthopedic,860,APPROVE,488.0
+SYN-0038,dog,Poodle,12,accident,3520,APPROVE,2616.0
+SYN-0039,cat,Maine Coon,2,illness,690,DENY,0.0
+SYN-0040,cat,Domestic Shorthair,7,cosmetic,315,DENY,0.0
+SYN-0041,cat,Persian,7,cosmetic,335,DENY,0.0
+SYN-0042,cat,Domestic Shorthair,8,cosmetic,425,DENY,0.0
+SYN-0043,dog,Labrador,4,orthopedic,798,PARTIAL,424.0
+SYN-0044,cat,Persian,12,illness,715,APPROVE,372.0
+SYN-0045,cat,Siamese,12,illness,1260,APPROVE,808.0
+SYN-0046,cat,Maine Coon,11,wellness,105,DENY,0.0
+SYN-0047,dog,Husky,2,illness,990,APPROVE,592.0
+SYN-0048,cat,Persian,8,accident,910,APPROVE,528.0
+SYN-0049,dog,Beagle,1,illness,965,PARTIAL,540.0
+SYN-0050,dog,Dachshund,3,wellness,105,DENY,0.0
+SYN-0051,cat,Siamese,9,illness,925,APPROVE,540.0
+SYN-0052,cat,Ragdoll,1,cosmetic,305,DENY,0.0
+SYN-0053,cat,Siamese,7,accident,3660,APPROVE,2728.0
+SYN-0054,dog,Husky,7,wellness,105,APPROVE,0.0
+SYN-0055,dog,Beagle,5,illness,1130,APPROVE,704.0
+SYN-0056,dog,Poodle,2,orthopedic,1000,APPROVE,600.0
+SYN-0057,dog,Husky,2,accident,3705,APPROVE,2764.0
+SYN-0058,cat,Ragdoll,8,illness,1750,APPROVE,1200.0
+SYN-0059,cat,Persian,11,cosmetic,305,DENY,0.0
+SYN-0060,dog,Boxer,8,accident,1925,PARTIAL,1308.0
+SYN-0061,cat,Persian,9,unknown,698,RETURNED,0.0
+SYN-0062,dog,Bulldog,6,illness,3440,APPROVE,2552.0
+SYN-0063,cat,Persian,5,orthopedic,2005,APPROVE,1404.0
+SYN-0064,cat,Domestic Shorthair,4,illness,815,APPROVE,452.0
+SYN-0065,cat,Siamese,4,unknown,1195,RETURNED,0.0
+SYN-0066,dog,Boxer,6,orthopedic,3570,APPROVE,2656.0
+SYN-0067,cat,Siamese,2,unknown,1290,RETURNED,0.0
+SYN-0068,cat,Siamese,11,orthopedic,3565,DENY,0.0
+SYN-0069,cat,Siamese,11,illness,1960,APPROVE,1368.0
+SYN-0070,dog,Poodle,11,accident,1008,PARTIAL,584.0
+SYN-0071,dog,Poodle,5,accident,950,PARTIAL,528.0
+SYN-0072,dog,Husky,4,unknown,1178,RETURNED,0.0
+SYN-0073,dog,Boxer,6,accident,1770,APPROVE,1216.0
+SYN-0074,dog,Dachshund,11,unknown,2005,RETURNED,0.0
+SYN-0075,dog,Labrador,3,accident,3595,APPROVE,2676.0
+SYN-0076,dog,Poodle,8,wellness,105,DENY,0.0
+SYN-0077,cat,Domestic Shorthair,2,cosmetic,205,DENY,0.0
+SYN-0078,dog,Poodle,6,wellness,105,DENY,0.0
+SYN-0079,cat,Maine Coon,2,unknown,3705,RETURNED,0.0
+SYN-0080,cat,Domestic Shorthair,3,unknown,1035,RETURNED,0.0
+SYN-0081,dog,Poodle,7,unknown,890,RETURNED,0.0
+SYN-0082,cat,Persian,8,illness,3540,APPROVE,2632.0
+SYN-0083,dog,Labrador,4,accident,1760,PARTIAL,1176.0
+SYN-0084,dog,Poodle,12,accident,2008,PARTIAL,1384.0
+SYN-0085,cat,Domestic Shorthair,7,cosmetic,415,DENY,0.0
+SYN-0086,dog,Boxer,11,accident,670,APPROVE,336.0
+SYN-0087,dog,Beagle,11,illness,1290,APPROVE,832.0
+SYN-0088,dog,Bulldog,9,accident,3685,APPROVE,2748.0
+SYN-0089,cat,Ragdoll,11,accident,3745,PARTIAL,2764.0
+SYN-0090,dog,Bulldog,6,wellness,105,APPROVE,0.0
+SYN-0091,cat,Siamese,5,orthopedic,1820,APPROVE,1256.0
+SYN-0092,cat,Maine Coon,11,orthopedic,1338,DENY,0.0
+SYN-0093,dog,Beagle,2,accident,3720,PARTIAL,2744.0
+SYN-0094,cat,Domestic Shorthair,7,illness,900,APPROVE,520.0
+SYN-0095,cat,Persian,5,unknown,205,RETURNED,0.0
+SYN-0096,cat,Siamese,9,wellness,105,APPROVE,0.0
+SYN-0097,dog,Beagle,8,unknown,105,RETURNED,0.0
+SYN-0098,dog,Husky,12,orthopedic,2003,DENY,0.0
+SYN-0099,cat,Domestic Shorthair,5,accident,3505,PARTIAL,2572.0
+SYN-0100,cat,Persian,1,illness,3485,APPROVE,2588.0
+SYN-0101,cat,Domestic Shorthair,11,illness,905,APPROVE,524.0
+SYN-0102,cat,Maine Coon,11,illness,880,APPROVE,504.0
+SYN-0103,cat,Ragdoll,8,accident,1760,APPROVE,1208.0
+SYN-0104,cat,Maine Coon,8,orthopedic,3680,APPROVE,2744.0
+SYN-0105,cat,Ragdoll,12,illness,1445,APPROVE,956.0
+SYN-0106,cat,Siamese,9,cosmetic,235,DENY,0.0
+SYN-0107,dog,Boxer,3,unknown,1280,RETURNED,0.0
+SYN-0108,cat,Ragdoll,2,accident,880,APPROVE,504.0
+SYN-0109,dog,Husky,11,wellness,105,DENY,0.0
+SYN-0110,dog,Husky,6,illness,1420,DENY,0.0
+SYN-0111,cat,Persian,9,illness,3600,PARTIAL,2648.0
+SYN-0112,dog,Husky,2,illness,1290,DENY,0.0
+SYN-0113,dog,Boxer,11,accident,810,PARTIAL,416.0
+SYN-0114,cat,Ragdoll,11,accident,1850,APPROVE,1280.0
+SYN-0115,cat,Persian,4,illness,1325,APPROVE,860.0
+SYN-0116,cat,Maine Coon,3,accident,1260,APPROVE,808.0
+SYN-0117,cat,Siamese,8,accident,1765,APPROVE,1212.0
+SYN-0118,cat,Ragdoll,1,cosmetic,195,DENY,0.0
+SYN-0119,cat,Ragdoll,5,accident,1110,APPROVE,688.0
+SYN-0120,cat,Maine Coon,4,illness,1840,DENY,0.0
+SYN-0121,cat,Maine Coon,7,wellness,105,DENY,0.0
+SYN-0122,cat,Siamese,11,accident,1425,APPROVE,940.0
+SYN-0123,dog,Boxer,8,accident,668,PARTIAL,312.0
+SYN-0124,cat,Ragdoll,10,wellness,105,DENY,0.0
+SYN-0125,cat,Maine Coon,8,wellness,105,DENY,0.0
+SYN-0126,cat,Ragdoll,5,accident,3585,APPROVE,2668.0
+SYN-0127,cat,Siamese,3,accident,1035,APPROVE,628.0
+SYN-0128,dog,Labrador,10,orthopedic,1740,DENY,0.0
+SYN-0129,dog,Poodle,11,wellness,105,APPROVE,0.0
+SYN-0130,dog,Beagle,7,unknown,105,RETURNED,0.0
+SYN-0131,dog,Bulldog,5,illness,1180,DENY,0.0
+SYN-0132,cat,Siamese,10,orthopedic,1923,DENY,0.0
+SYN-0133,cat,Maine Coon,8,orthopedic,943,PARTIAL,540.0
+SYN-0134,cat,Domestic Shorthair,11,wellness,105,DENY,0.0
+SYN-0135,cat,Ragdoll,11,unknown,323,RETURNED,0.0
+SYN-0136,dog,Boxer,9,accident,3570,APPROVE,2656.0
+SYN-0137,cat,Ragdoll,1,unknown,3680,RETURNED,0.0
+SYN-0138,dog,Poodle,1,accident,1840,APPROVE,1272.0
+SYN-0139,cat,Domestic Shorthair,3,wellness,105,DENY,0.0
+SYN-0140,cat,Maine Coon,4,unknown,810,RETURNED,0.0
+SYN-0141,dog,Beagle,12,accident,3460,APPROVE,2568.0
+SYN-0142,dog,Bulldog,3,wellness,105,DENY,0.0
+SYN-0143,cat,Domestic Shorthair,6,wellness,105,DENY,0.0
+SYN-0144,dog,Husky,4,accident,1148,PARTIAL,696.0
+SYN-0145,cat,Domestic Shorthair,9,orthopedic,3420,APPROVE,2536.0
+SYN-0146,dog,Beagle,4,wellness,105,DENY,0.0
+SYN-0147,cat,Persian,8,unknown,1010,RETURNED,0.0
+SYN-0148,dog,Labrador,5,illness,980,APPROVE,584.0
+SYN-0149,cat,Persian,8,unknown,3670,RETURNED,0.0
+SYN-0150,dog,Husky,1,illness,815,DENY,0.0

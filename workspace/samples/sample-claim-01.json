@@ -1,0 +1,21 @@
+{
+  "external_id": "CLM-DEMO-001",
+  "policy_id": "POL-DEMO-7788",
+  "pet": { "name": "Maple", "species": "dog", "breed": "Labrador", "age_years": 4 },
+  "policy_start": "2025-01-15",
+  "addons": [],
+  "claim_date": "2026-06-10",
+  "diagnosis": "Acute gastroenteritis from foreign body ingestion (sock)",
+  "treatment": "Endoscopic foreign body removal, anesthesia, 1-night hospitalization, IV fluids, anti-emetics",
+  "line_items": [
+    { "desc": "Exam", "amount": 85 },
+    { "desc": "Abdominal radiographs", "amount": 220 },
+    { "desc": "Endoscopy + anesthesia", "amount": 940 },
+    { "desc": "Hospitalization 1 night", "amount": 310 },
+    { "desc": "Cerenia + maropitant", "amount": 65 },
+    { "desc": "Prescription i/d food (6 cans)", "amount": 28 }
+  ],
+  "invoice_total": 1648,
+  "attachments": ["invoice.pdf", "medical-record.pdf"],
+  "_note": "Test fixture. Accident peril, 0-day wait, policy active >1yr. Expect APPROVE (partial: Rx food line is borderline). Should stop at human_review."
+}

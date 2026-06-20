@@ -1,0 +1,27 @@
+{
+  "N": 150,
+  "disposition": {
+    "PARTIAL": 22,
+    "APPROVE": 62,
+    "DENY": 48,
+    "RETURNED": 18
+  },
+  "peril": {
+    "accident": 43,
+    "illness": 36,
+    "cosmetic": 14,
+    "orthopedic": 18,
+    "wellness": 21,
+    "unknown": 18
+  },
+  "invoice_mean": 1404,
+  "invoice_median": 1022,
+  "invoice_max": 3745,
+  "payout_paid_n": 80,
+  "payout_mean": 1301,
+  "payout_median": 948,
+  "engine_n": 150,
+  "engine_match": 150,
+  "engine_acc": 100.0,
+  "payout_mae": 0.0
+}

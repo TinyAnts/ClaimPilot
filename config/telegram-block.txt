@@ -1,0 +1,22 @@
+# ADD TELEGRAM AFTER FIRST BOOT WORKS.
+# 1. Make a bot: message @BotFather -> /newbot -> copy token.
+# 2. Get your id: message @userinfobot -> copy the number.
+# 3. Add to ~/openclaw-insurance/.env:
+#      TELEGRAM_BOT_TOKEN=123456:abc...
+#      TELEGRAM_ALLOW_ID=tg:123456789
+# 4. Paste the two blocks below into ~/openclaw-insurance/openclaw.json
+#    (bindings as a top-level key; channels as a top-level key), then:
+#      openclaw config validate  &&  bash scripts/start-insurance.sh  (restart)
+
+  bindings: [
+    { agentId: "main", match: { channel: "telegram" } },
+  ],
+
+  channels: {
+    telegram: {
+      enabled: true,
+      botToken: "${TELEGRAM_BOT_TOKEN}",
+      dmPolicy: "allowlist",
+      allowFrom: ["${TELEGRAM_ALLOW_ID}"],
+    },
+  },
