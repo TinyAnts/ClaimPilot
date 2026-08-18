@@ -48,28 +48,54 @@ Every LLM stage is wrapped in a **verify-and-retry** loop; all deterministic wor
 
 **Local or headless cloud.** The same gateway and agent definitions deploy unchanged from a single board to a headless VPS or container, reachable over a secure overlay network (e.g., Tailscale) so authorised staff review from anywhere without exposing the service publicly. Any real-data deployment needs the usual data-protection posture (access control, encryption, retention, redundancy).
 
-## Key findings (from deployment + a 40-claim pilot)
+## Key findings
 
-1. **Tool-protocol compatibility is a model-selection criterion.** Two of four candidate models returned
-   HTTP 400 on the gateway's tool schema; `gpt-5-mini` works. Capability leaderboards don't report this.
-2. **Cheap models narrate instead of calling tools.** Explicit, tool-forcing prompts + a verify-and-retry
-   wrapper raised first-attempt tool execution to ~100% and produced **100% end-to-end completion (40/40)**.
-3. **Don't make an LLM do arithmetic.** As an LLM agent the payout step succeeded 0/10; in code it is
-   **100%, payout MAE $0.00**.
-4. **Robustness ≠ accuracy.** The robust pipeline was only **50% accurate** on disposition, with a
-   systematic **over-approval bias** (26 predicted APPROVE vs 10 true) and **0/10 RETURNED detected** —
-   which is exactly why the human gate is essential. Per-class metrics confirm it: APPROVE precision is only **38.5%**, macro-F1 **43.1%**, **Cohen's κ = 0.33** (fair agreement), and **16 of 40** claims are steered toward payment in error. Payout MAE was **$183.88**.
+Evaluated on the released 150-claim benchmark, gpt-5-mini, with each configuration run twice.
 
-Cost: ≈ **$0.012 per claim** on the cheap tier (≈35× higher all-frontier); idle passes cost $0.
+**1. Multi-agent decomposition did not improve decision quality.**
+
+| Configuration | Run 1 | Run 2 | Spread | Completion | LLM calls/claim | s/claim |
+|---|---|---|---|---|---|---|
+| Single-agent | 95.3% | 96.0% | 0.7 pts | 100% / 100% | 1 | 41.9 |
+| Multi-agent  | 90.0% | 96.0% | 6.0 pts | 97.3% / 100% | 2 | 65.0 |
+
+In run 2 the two architectures produced **identical dispositions on all 150 claims** (McNemar b=0, c=0).
+The run-1 gap (b=9, c=1, p=0.0215) traces entirely to four claims that stalled between agent hand-offs.
+Decomposition added an intermittent liveness failure mode, 2x the LLM calls, and +55% latency — without
+adding decision quality. Performance comes from the **deterministic policy engine + document usability
+gate**, which are common to every configuration.
+
+**2. Per-claim session isolation is a reliability/latency trade, not an accuracy gain.**
+Isolation off: 95.0% accuracy, 97.5% completion, 27.2 s/claim. Isolation on: 95.0-97.5% accuracy,
+100% completion, 41.9 s/claim (+54% latency).
+
+**3. Tool-protocol compatibility is a hard model-selection constraint.**
+`o4-mini` and `gpt-5.4` are rejected by the gateway tool schema with HTTP 400 and cannot participate at
+any accuracy; `gpt-5-mini` and `gpt-5.5` are accepted. Capability leaderboards do not report this.
+
+**4. Don't make an LLM do arithmetic.** Adjudication as an LLM agent completed 0/10; in deterministic
+code it is 100% with payout MAE $0.00.
+
+**5. Coordination overhead dominates inference.** ~65 s of gateway/session start-up per agent invocation
+against 3-8 s of model latency, so wall-clock scales with call count rather than token volume. One
+auto-loading plugin blocking on a dead connection accounted for 137 s -> 52 s per claim once removed.
+
+**6. The benchmark has a ceiling.** 96.0% (144/150) with oracle peril labels: six denials rest on
+pre-existing-condition grounds that never appear in the claim document and are unrecoverable from it.
 
 ## Repository layout
 
 ```
 config/        reference openclaw.json (JSON5), .env.example, telegram-block.txt
-workspace/     agent definitions (SOUL.md per role), 4-layer memory files, policy rules, sample claim
-scripts/       deploy + run + evaluate (setup, start/stop, run-pipeline, run-eval, score_eval, cron-setup)
-dataset/       150-claim synthetic corpus + independent ground-truth labels + summary/eval stats
-figures/       all 13 paper figures (PNG)
+workspace/     agent definitions (SOUL.md per role), memory files, policy rules, sample claim
+scripts/       deploy + run + evaluate
+                 run-pipeline.sh / run-eval.sh          multi-agent pipeline
+                 run-pipeline-single.sh / run-eval-single.sh   single-agent baseline
+                 score_eval.py, cron-setup.sh, setup/start/stop
+dataset/       150-claim corpus + ground truth + generate_corpus.py (seeded regenerator)
+                 results_single_run1/2.jsonl, results_multi_run1/2.jsonl,
+                 results_no_isolation_40.jsonl   raw per-claim outputs for every run reported
+figures/       paper figures (PNG)
 ClaimPilot_figures.ipynb, make_figs.py   regenerate every figure from dataset/*.json
 ```
 
@@ -100,8 +126,20 @@ Schedule hands-off operation with `scripts/cron-setup.sh` (every 5 min, `flock`-
 ## Reproduce the evaluation
 
 ```bash
-bash scripts/run-eval.sh dataset/claims_dataset.json dataset/ground_truth.json 40
-# prints completion rate, disposition accuracy, payout MAE, and a 4×4 confusion matrix
+# multi-agent pipeline
+bash scripts/run-eval.sh        dataset/claims_dataset.json dataset/ground_truth.json 150
+
+# single-agent baseline (same corpus, model and deterministic engine)
+bash scripts/run-eval-single.sh dataset/claims_dataset.json dataset/ground_truth.json 150
+
+# each prints completion rate, disposition accuracy, payout MAE and a confusion matrix
+```
+
+Regenerate the corpus from the policy grammar (documents the construction procedure; a different
+seed yields a different corpus, so the released pair remains the benchmark of record):
+
+```bash
+python3 dataset/generate_corpus.py --n 150 --seed 20260101 --out /tmp/regen
 ```
 
 ## Reproduce the figures
