@@ -89,12 +89,11 @@ pre-existing-condition grounds that never appear in the claim document and are u
 config/        reference openclaw.json (JSON5), .env.example, telegram-block.txt
 workspace/     agent definitions (SOUL.md per role), memory files, policy rules, sample claim
 scripts/       deploy + run + evaluate
-                 run-pipeline.sh / run-eval.sh          multi-agent pipeline
-                 run-pipeline-single.sh / run-eval-single.sh   single-agent baseline
+                 run-pipeline.sh / run-eval.sh   pipeline + batch evaluation
                  score_eval.py, cron-setup.sh, setup/start/stop
 dataset/       150-claim corpus + ground truth + generate_corpus.py (seeded regenerator)
-                 results_single_run1/2.jsonl, results_multi_run1/2.jsonl,
-                 results_no_isolation_40.jsonl   raw per-claim outputs for every run reported
+                 results_multi_run1/2.jsonl, results_no_isolation_40.jsonl
+                 raw per-claim outputs for every run reported
 figures/       paper figures (PNG)
 ClaimPilot_figures.ipynb, make_figs.py   regenerate every figure from dataset/*.json
 ```
@@ -128,9 +127,6 @@ Schedule hands-off operation with `scripts/cron-setup.sh` (every 5 min, `flock`-
 ```bash
 # multi-agent pipeline
 bash scripts/run-eval.sh        dataset/claims_dataset.json dataset/ground_truth.json 150
-
-# single-agent baseline (same corpus, model and deterministic engine)
-bash scripts/run-eval-single.sh dataset/claims_dataset.json dataset/ground_truth.json 150
 
 # each prints completion rate, disposition accuracy, payout MAE and a confusion matrix
 ```
